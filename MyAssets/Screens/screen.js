@@ -14,8 +14,8 @@ class Screen extends Component {
                 </View>
                 <View style={{marginVertical:50}}>
                 <Text> Number Of Pizza = {this.props.numberOfPizza} </Text>
-                <Button title="Increase Burger" onPress={()=>{this.props.increasePizza(5)}}/>
-                <Button title="Decrease Burger" onPress={()=>{this.props.decreasePizza()}}/>
+                <Button title="Increase Pizza" onPress={()=>{this.props.increasePizza(5)}}/>
+                <Button title="Decrease Pizza" onPress={()=>{this.props.decreasePizza()}}/>
                 </View>
             </View>
         )
