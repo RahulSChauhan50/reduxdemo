@@ -1,5 +1,5 @@
 # reduxdemo
-## Basic ReactNative project with single screen and Redux Integrated
+## Basic ReactNative project with single screen component and Redux Integrated
 ### Topic covered
 * Action
 * Reducer
